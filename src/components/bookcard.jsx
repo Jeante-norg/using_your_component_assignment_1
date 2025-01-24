@@ -27,7 +27,7 @@ const styles = {
     margin: "1rem auto",
     padding: "15px",
     gap: "25px",
-    backgroundColor: "#f9f9f9",
+    backgroundColor: "#FFE6C9",
     flexDirection: "row",
   },
   img: {
