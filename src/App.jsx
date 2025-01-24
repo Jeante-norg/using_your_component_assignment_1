@@ -36,7 +36,14 @@ function App() {
   ];
 
   return (
-    <div style={{ width: "100vw", display: "flex", flexDirection: "column" }}>
+    <div
+      style={{
+        width: "100vw",
+        display: "flex",
+        flexDirection: "column",
+        fontFamily: "Consolas",
+      }}
+    >
       {books.map((item) => {
         return (
           <Bookcard
